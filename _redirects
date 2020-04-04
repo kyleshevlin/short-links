@@ -1,4 +1,5 @@
-/faq key=:key            https://kyleshevlin-faq-function.netlify.com/.netlify/functions/faq?key=:key
+/fsm-guide      https://kyleshevlin.com/guidelines-for-state-machines-and-xstate
+/faq key=:key   https://kyleshevlin-faq-function.netlify.com/.netlify/functions/faq?key=:key
 /faq            https://kyleshevlin-faq-function.netlify.com/.netlify/functions/faq
 /blog-lessons   https://egghead.io/playlists/kyle-shevlin-s-blog-lessons-33db?af=8u8eik
 /newsletter     https://buttondown.email/kyleshevlin
